@@ -9,8 +9,6 @@
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
-
-My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode.
 My goal was to have something simple and clean. I wanted to avoid the need for users to do a lot of clicking.
 The only reason to click is to get my resume, follow a link, or submit a message. All key information can be obtained via scrolling.
 
