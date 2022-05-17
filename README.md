@@ -19,4 +19,4 @@ I plan to replace static images with gifs as they are more fun and engaging.
 ## Lessons Learned:
 
 This project was a great opportunity to hone my CSS. While building, I wasn't entirely happy with the static nature of the buttons and images.
-So I spent more time playing with the hover pseudoclass and transitions. I am pleased with the results. The hover transitions on the project thumnbails in particular were fun to watch come into fruition.
+So I spent more time playing with the hover pseudoclass and transitions. I am pleased with the results. The hover transitions on the project thumbnails in particular were fun to watch come alive.
